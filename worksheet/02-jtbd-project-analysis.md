@@ -9,7 +9,7 @@ companion-reference: Strategyn_JTBD_Playbook.pdf (giảng viên gửi kèm)
 
 # Lab 2 — JTBD Project Analysis / Dùng JTBD để soi lại dự án nhóm
 
-**Tên dự án / sản phẩm:** _______________  
+**Tên dự án / sản phẩm:** ShopReply — trợ lý phản hồi inbox cho shop online
 
 > Đây là **file duy nhất** của Lab 2.  
 > File này đồng thời đóng vai trò:
@@ -92,17 +92,17 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Khoanh đúng 1 lát cắt theo 4 điểm
 
-- [ ] **1 nhóm người dùng chính**
-- [ ] **1 hoàn cảnh / tình huống rõ**
-- [ ] **1 job cốt lõi**
-- [ ] **1 workflow đủ cụ thể để vẽ ra được**
+- [x] **1 nhóm người dùng chính**
+- [x] **1 hoàn cảnh / tình huống rõ**
+- [x] **1 job cốt lõi**
+- [x] **1 workflow đủ cụ thể để vẽ ra được**
 
 ### Điền nhanh trước khi làm
 
-- **Dự án của nhóm tôi là:** ___________________________________
-- **Lát cắt tôi chọn để phân tích hôm nay là:** ___________________________________
+- **Dự án của nhóm tôi là:** ShopReply — công cụ hỗ trợ chủ shop online quản lý và trả lời tin nhắn khách trên Shopee / TikTok Shop
+- **Lát cắt tôi chọn để phân tích hôm nay là:** Chủ shop (1–3 người) trả lời câu hỏi **trước khi mua** trong **giờ cao điểm** (19h–23h), khi inbox đổ dồn và không kịp trả lời từng tin
 - **Vì sao tôi chọn lát cắt này:**  
-  > ___________________________________
+  > Đây là pain nhóm nghe nhiều nhất khi phỏng vấn 3 chủ shop nhỏ. Không viết quá rộng kiểu "AI cho e-commerce" — có hoàn cảnh, có workflow, và có thể vẽ job map cụ thể.
 
 ### Viết quá rộng vs viết sắc hơn
 
@@ -121,13 +121,13 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Tóm tắt dự án trong 3 dòng
 
 1. **Nhóm tôi đang nghĩ mình đang giải quyết vấn đề gì?**  
-   > ___________________________________
+   > Chủ shop online mất đơn vì trả lời inbox chậm hoặc không nhất quán — đặc biệt lúc inbox tăng đột biến buổi tối.
 
 2. **Người dùng chính hiện nhóm đang nhắm tới là ai?**  
-   > ___________________________________
+   > Chủ shop hoặc nhân viên CSKH kiêm nhiệm (1–3 người), bán trên Shopee / TikTok Shop, doanh thu khoảng 50–500 triệu/tháng.
 
 3. **Hiện tại người dùng đó đang giải quyết vấn đề này bằng cách nào?**  
-   > ___________________________________
+   > Trả lời thủ công trên app sàn, copy mẫu câu trong Notes, hoặc nhờ ChatGPT soạn nháp rồi paste lại — mỗi cách đều tốn thời gian và dễ sai thông tin sản phẩm.
 
 ---
 
@@ -139,21 +139,20 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Trả lời 4 câu ngắn
 
 1. **Ai đang gặp vấn đề này?**  
-   > ___________________________________
+   > Chủ shop online nhỏ và vừa — tự vận hành hoặc có 1–2 người hỗ trợ, không có team CSKH chuyên trách.
 
 2. **Vấn đề xuất hiện trong hoàn cảnh nào?**  
-   > ___________________________________
+   > Khi khách nhắn hỏi size, giá ship, hàng còn không, khuyến mãi — ngay trước khi bấm mua. Đỉnh điểm 19h–23h khi chủ shop vừa đóng gói vừa trả lời tin.
 
 3. **Hiện tại họ đang dùng giải pháp thay thế nào?**  
-   > ___________________________________
+   > Trả lời tay trên app sàn, mẫu câu cố định trong Notes/Zalo, ChatGPT soạn nháp, hoặc thuê thêm người part-time giờ cao điểm.
 
 4. **Vì sao đây là thời điểm đáng giải?**  
-   > ___________________________________
+   > Sàn thương mại điện tử đo response rate và ảnh hưởng xếp hạng shop. AI đủ tốt để draft câu trả lời, nhưng generic AI không biết tồn kho, policy đổi trả, hay giọng thương hiệu của từng shop — khoảng trống nằm ở đó.
 
 ### Tóm tắt market context trong 3-4 dòng
 
-> _______________________________________________  
-> _______________________________________________
+> Hàng triệu shop online ở VN phụ thuộc inbox để chốt đơn, nhưng đa số không có CSKH chuyên nghiệp. Giờ cao điểm tối là lúc vừa mất đơn vừa trả lời sai nếu dùng mẫu câu chung chung. ChatGPT giúp viết nhanh nhưng không có context sản phẩm — đây là lý do có chỗ cho giải pháp gắn workflow shop, không chỉ là chatbot viết văn.
 
 ---
 
@@ -174,9 +173,9 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Điền
 
-- **Job executor của dự án này là:** ___________________________________
+- **Job executor của dự án này là:** Chủ shop online (hoặc nhân viên kiêm nhiệm) — người trực tiếp mở app sàn và gõ câu trả lời cho khách
 - **Vì sao tôi tin đây là người trực tiếp "thuê" giải pháp để làm job:**  
-  > ___________________________________
+  > Họ là người đọc tin, quyết định nội dung trả lời, và bấm gửi — không phải đối tác vận chuyển hay nhà cung cấp. Nếu tool không tiết kiệm được thời gian gõ và giảm lo lắng trả lời sai, họ không dùng.
 
 ---
 
@@ -200,23 +199,23 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### 3 tiêu chí tự kiểm
 
-- [ ] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
-- [ ] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
-- [ ] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
+- [x] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
+- [x] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
+- [x] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
 
 ### Bản nháp 1
 
 **Core JTBD bản nháp:**  
-> _______________________________________________
+> Trả lời inbox khách hàng bằng AI nhanh trong giờ cao điểm
 
 ### Gạch bỏ từ solution nếu có
 
-- Các từ solution tôi đang lỡ nhét vào câu: _________________________________
+- Các từ solution tôi đang lỡ nhét vào câu: AI, inbox (có thể thay bằng "câu hỏi trước mua")
 
 ### Bản chốt
 
 **Core JTBD cuối cùng:**  
-> _______________________________________________
+> Giải quyết câu hỏi trước mua hàng nhanh và chính xác trong giờ cao điểm
 
 ---
 
@@ -239,15 +238,15 @@ When [trigger], I want to [motivation], so I can [outcome].
 
 | # | Trigger / When | Motivation / I want to | Outcome / so I can | Điều story này cho thấy |
 |---|---|---|---|---|
-| JS1 | | | | |
-| JS2 | | | | |
-| JS3 | | | | |
+| JS1 | Inbox tăng đột ngột lúc 21h, đang đóng gói hàng | Trả lời từng khách trong vài phút, không bỏ sót tin | Không mất đơn vì phản hồi chậm quá 5 phút | Product cần xuất hiện khi volume cao, không chỉ lúc rảnh |
+| JS2 | Khách hỏi size + ship tỉnh xa, tôi không nhớ chính sách | Có câu trả lời đúng policy và tồn kho size đó | Tránh hứa sai rồi phải xin lỗi / đổi trả | Cần context sản phẩm, không chỉ viết hay |
+| JS3 | Khách so sánh giá với shop khác, hỏi có giảm thêm không | Phản hồi đúng tone thương hiệu, không hứa lung tung | Giữ margin và uy tín shop | Cần guardrail policy, không chỉ generate tự do |
 
 ### Tự kiểm nhanh
 
-- [ ] Mỗi story là một **tình huống thật**, không phải slogan chung chung
-- [ ] 3 story không trùng hệt nhau
-- [ ] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
+- [x] Mỗi story là một **tình huống thật**, không phải slogan chung chung
+- [x] 3 story không trùng hệt nhau
+- [x] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
 
 ---
 
@@ -268,14 +267,14 @@ Qua JTBD lens, đối thủ không chỉ là app cùng ngành.
 
 | Alternative hiện tại | User đang thuê nó để làm gì? | Nó làm tốt gì? | Nó fail ở đâu? | Switching cost hiện tại cao hay thấp? |
 |---|---|---|---|---|
-| Alt 1 | | | | |
-| Alt 2 | | | | |
-| Alt 3 | | | | |
+| Alt 1: Trả lời tay trên app Shopee/TikTok | Kiểm soát 100% nội dung gửi đi | Chính xác nếu chủ shop nhớ hết thông tin | Chậm, không scale khi 20+ tin cùng lúc | Thấp — đang là default |
+| Alt 2: Mẫu câu trong Notes / Zalo | Trả lời nhanh câu hỏi lặp lại | Nhanh cho FAQ cố định | Sai context (size, màu, tồn kho), giọng máy móc | Thấp |
+| Alt 3: ChatGPT soạn nháp → paste | Viết câu trả lời mượt hơn | Nhanh, miễn phí/rẻ, đủ tốt về văn phong | Không biết tồn kho, policy shop; phải copy-paste qua lại | Thấp |
 
 ### Kết luận nhanh
 
 **Nếu project của tôi biến mất hôm nay, user nhiều khả năng sẽ quay về:**  
-> _______________________________________________
+> Trả lời tay kết hợp mẫu câu Notes — hoặc ChatGPT nếu họ đã quen workflow copy-paste. Cả hai đều switching cost thấp.
 
 ---
 
@@ -310,23 +309,22 @@ Mục tiêu là nhìn ra:
 
 | Step | Trong workflow này user đang cố làm gì? | Hôm nay họ đang dùng gì? | Friction / pain hiện tại | Mức đau |
 |---|---|---|---|---|
-| Define | | | | Low / Med / High |
-| Locate | | | | Low / Med / High |
-| Prepare | | | | Low / Med / High |
-| Confirm | | | | Low / Med / High |
-| Execute | | | | Low / Med / High |
-| Monitor | | | | Low / Med / High |
-| Modify | | | | Low / Med / High |
-| Conclude | | | | Low / Med / High |
+| Define | Xác định tin nào cần ưu tiên trả trước | Lướt inbox thủ công, ưu tiên tin mới nhất | Bỏ sót tin cũ chưa đọc; không phân loại theo intent | Med |
+| Locate | Tìm thông tin để trả lời (giá, size, ship, tồn) | Nhớ trong đầu, hoặc mở tab sản phẩm / Excel tồn kho | Mất 1–3 phút/tin; hay trả sai size hoặc giá ship | **High** |
+| Prepare | Soạn nội dung câu trả lời | Gõ tay hoặc copy mẫu / ChatGPT | Mẫu câu generic; ChatGPT thiếu context shop | **High** |
+| Confirm | Kiểm tra trước khi gửi — đúng policy, đúng tone | Đọc lại bằng mắt, đôi khi bỏ qua vì vội | Gửi nhầm khi vội; không có checklist policy | Med |
+| Execute | Gửi tin trên app sàn | Bấm gửi trên Shopee/TikTok Shop | N/A — bước này đơn giản | Low |
+| Monitor | Theo dõi khách có phản hồi tiếp không | Quay lại inbox sau vài phút | Khó theo dõi khi nhiều thread mở | Med |
+| Modify | Sửa câu trả lời nếu khách hỏi thêm | Gõ lại hoặc gọi điện | Tốn thời gian lặp lại Locate + Prepare | Med |
+| Conclude | Chốt đơn hoặc kết thúc hội thoại | Nhắc khách đặt hàng, gửi link | Không có follow-up nhất quán | Low |
 
 ### Chốt 2 bước đau nhất
 
-**Bước đau nhất #1:** _________________________________  
-**Bước đau nhất #2:** _________________________________
+**Bước đau nhất #1:** Locate — tìm thông tin sản phẩm / policy để trả lời đúng  
+**Bước đau nhất #2:** Prepare — soạn câu trả lời nhanh mà vẫn đúng context shop
 
 **Vì sao đây là nơi đáng chú ý nhất:**  
-> _______________________________________________  
-> _______________________________________________
+> Đây là nơi user mất nhiều thời gian nhất mỗi tin (2–5 phút) và cũng là nơi sai sót gây mất đơn / đổi trả. ChatGPT chỉ giải được một nửa (Prepare) mà không có Locate. AI của nhóm chỉ đáng giá nếu gộp cả hai bước với dữ liệu shop thật.
 
 ---
 
@@ -345,16 +343,16 @@ Sau khi map workflow, mới hỏi:
 
 | Step | AI nên giúp bằng cách nào? | Vì sao AI hợp ở đây? | Rủi ro chính nếu dùng AI |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
+| Locate + Prepare | Đọc câu hỏi khách → tra catalog / policy shop → draft câu trả lời có nguồn | LLM giỏi hiểu intent + tổng hợp; khi gắn data shop thì vượt ChatGPT generic | Hallucinate tồn kho / giá; khách tức nếu sai |
+| Confirm | Highlight chỗ cần chủ shop duyệt (giảm giá, hứa ship) trước khi gửi | Giảm rủi ro gửi nhầm khi vội; human-in-the-loop phù hợp policy | Nếu friction duyệt quá nhiều, user bỏ qua và mất giá trị |
 
 ### Kết luận nhanh
 
 **AI leverage point quan trọng nhất của dự án tôi là:**  
-> _______________________________________________
+> Bước **Locate + Prepare**: từ câu hỏi khách → draft trả lời dựa trên catalog, policy ship/đổi trả, và tone shop — chủ shop chỉ review rồi gửi.
 
 **Vì sao không phải ở bước khác:**  
-> _______________________________________________
+> Execute (gửi tin) đã đủ nhanh trên app sàn. Define (ưu tiên tin) có thể hữu ích nhưng không phải pain lớn nhất. Nếu chỉ làm Prepare mà không có Locate, product trùng ChatGPT — đúng cảnh báo từ Lab 1 (Grammarly / wrapper trap).
 
 ---
 
@@ -373,13 +371,12 @@ vì [giá trị rõ nhất].
 
 ### Bản hypothesis của tôi
 
-> _______________________________________________  
-> _______________________________________________
+> Nếu chúng ta giúp **chủ shop online** giải quyết câu hỏi trước mua **nhanh và chính xác hơn ở bước Locate + Prepare**, bằng cách **draft câu trả lời từ catalog và policy shop kèm bước duyệt nhanh**, thì họ sẽ chuyển từ **ChatGPT + mẫu câu Notes** sang **ShopReply**, vì **tiết kiệm 2–3 phút/tin và giảm trả lời sai tồn kho / policy trong giờ cao điểm**.
 
 ### Tín hiệu sớm nếu hypothesis này đúng
 
-1. _______________________________________________
-2. _______________________________________________
+1. Chủ shop dùng draft của ShopReply ≥ 60% số tin trong giờ cao điểm (chỉ sửa nhẹ, không viết lại từ đầu)
+2. Thời gian trung bình trả lời một tin giảm từ ~4 phút xuống dưới 90 giây sau 2 tuần dùng thử
 
 ---
 
@@ -399,15 +396,15 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Assumption | Vì sao assumption này rủi ro? | Tôi đang có bằng chứng gì? | Cần validate bằng cách nào tiếp theo? |
 |---|---|---|---|
-| A1 | | | |
-| A2 | | | |
-| A3 | | | |
-| A4 | | | |
-| A5 | | | |
+| A1: Chủ shop là executor đúng, không phải agency CSKH thuê ngoài | Shop lớn hơn có thể outsource — product khác hẳn | 3 phỏng vấn shop nhỏ; đều tự trả lời | Hỏi thêm 5 shop doanh thu > 500M/tháng xem ai làm job |
+| A2: Pain "giờ cao điểm" đủ đau để trả tiền | Có thể chấp nhận mất vài đơn, không muốn trả subscription | 2/3 người phỏng vấn nói từng mất đơn vì trả chậm | Log thời gian trả lời + số tin bỏ sót trong 1 tuần thử |
+| A3: User sẽ bỏ ChatGPT nếu có context shop | ChatGPT free, switching cost thấp | Chưa có — chỉ giả định | A/B: draft ChatGPT vs ShopReply, đo tỷ lệ gửi không sửa |
+| A4: AI giải tốt Locate + Prepare khi có catalog | Catalog shop hay không chuẩn, thiếu field | Chưa test với data thật | Prototype với 1 shop: import 20 SKU, đo accuracy 20 câu hỏi mẫu |
+| A5: Chủ shop tin draft đủ để gửi sau review ngắn | Sợ sai → vẫn viết lại từ đầu | Chưa có | Theo dõi % tin gửi nguyên draft vs viết lại hoàn toàn |
 
 ### Assumption nguy hiểm nhất nếu tôi đang sai
 
-> _______________________________________________
+> **A4** — nếu catalog/policy shop không đủ sạch để AI tra cứu chính xác, toàn bộ moat "context shop" sụp và product chỉ còn là ChatGPT có UI đẹp hơn.
 
 ---
 
@@ -431,9 +428,9 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Ý phản biện tôi nghe được | Nó chạm vào phần nào? | Tôi sẽ giữ / sửa gì? |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| "Shopee có thể tự làm AI inbox — các bạn build trên đất thuê" | Platform risk (từ Lab 1) | Giữ leverage point nhưng thêm moat: policy + tone + multi-platform |
+| "ChatGPT + upload file catalog cũng làm được Locate" | AI leverage point | Giữ — nhưng product phải giảm friction upload và duyệt, không chỉ generate |
+| "Có chắc chủ shop trả tiền không, hay chỉ dùng free?" | Assumption A2 | Giữ executor; validate willingness-to-pay bằng landing + pre-order |
 
 ---
 
@@ -441,52 +438,51 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 ### Sau khi nghe phản biện, tôi thay đổi gì?
 
-- [ ] Giữ nguyên `job executor`
+- [x] Giữ nguyên `job executor`
 - [ ] Sửa `job executor`
-- [ ] Giữ nguyên `core JTBD`
+- [x] Giữ nguyên `core JTBD`
 - [ ] Sửa `core JTBD`
-- [ ] Giữ nguyên `AI leverage point`
+- [x] Giữ nguyên `AI leverage point`
 - [ ] Sửa `AI leverage point`
-- [ ] Giữ nguyên `product hypothesis`
+- [x] Giữ nguyên `product hypothesis`
 - [ ] Sửa `product hypothesis`
 
 ### Vì sao tôi giữ / sửa?
 
-> _______________________________________________  
-> _______________________________________________
+> Phản biện về platform risk làm nhóm chú ý hơn đến multi-platform (Shopee + TikTok Shop) và lưu policy shop riêng — nhưng không đổi job executor hay core JTBD vì 3 phỏng vấn đều khớp. Chỉ bổ sung vào roadmap: nếu chỉ làm Prepare mà không có Locate, product không khác ChatGPT.
 
 ### Version cuối cùng tôi nộp
 
 **Job executor:**  
-> _______________________________________________
+> Chủ shop online (hoặc nhân viên kiêm nhiệm) — người trực tiếp đọc tin và gửi câu trả lời trên app sàn
 
 **Core JTBD:**  
-> _______________________________________________
+> Giải quyết câu hỏi trước mua hàng nhanh và chính xác trong giờ cao điểm
 
 **2 bước đau nhất trong workflow:**  
-> _______________________________________________
+> Locate (tìm thông tin sản phẩm / policy) và Prepare (soạn câu trả lời đúng context)
 
 **AI leverage point chính:**  
-> _______________________________________________
+> Locate + Prepare: từ câu hỏi khách → draft trả lời dựa trên catalog + policy + tone shop, kèm bước duyệt trước khi gửi
 
 **Product hypothesis:**  
-> _______________________________________________
+> Nếu giúp chủ shop giải quyết câu hỏi trước mua nhanh và chính xác hơn ở Locate + Prepare, họ sẽ chuyển từ ChatGPT + mẫu câu Notes sang ShopReply vì tiết kiệm 2–3 phút/tin và giảm trả lời sai trong giờ cao điểm.
 
 **Assumption cần validate đầu tiên:**  
-> _______________________________________________
+> A4 — AI có tra cứu catalog/policy shop đủ chính xác để draft đáng tin, hay chỉ viết đẹp nhưng sai fact.
 
 ---
 
 ## Checklist trước khi nộp
 
-- [ ] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
-- [ ] Tôi đã phân biệt được `job executor` với buyer / influencer.
-- [ ] `Core JTBD` của tôi không nhét solution vào câu.
-- [ ] Tôi đã viết đủ 3 `job stories`.
-- [ ] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
-- [ ] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
-- [ ] Tôi đã ghi rõ `assumptions to validate`.
-- [ ] Tôi đã sửa version cuối sau khi share trong bàn.
+- [x] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
+- [x] Tôi đã phân biệt được `job executor` với buyer / influencer.
+- [x] `Core JTBD` của tôi không nhét solution vào câu.
+- [x] Tôi đã viết đủ 3 `job stories`.
+- [x] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
+- [x] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
+- [x] Tôi đã ghi rõ `assumptions to validate`.
+- [x] Tôi đã sửa version cuối sau khi share trong bàn.
 
 ---
 

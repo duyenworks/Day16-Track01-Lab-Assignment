@@ -8,10 +8,10 @@ nop-cuoi: Có — đây là file nộp cuối của Lab 1
 
 # Lab 1 — Case Analysis / Phân tích "tử huyệt" chiến lược
 
-**Case đã chọn:** _______________  
-**Người làm:** _______________  
+**Case đã chọn:** Grammarly (nay là Superhuman)  
+**Người làm:** Nguyễn Thị Bích Duyên  
 **Bàn / nhóm bàn:** _______________  
-**Ngày:** ____________
+**Ngày:** 18/06/2026
 
 > Đây là **file duy nhất** của Lab 1.  
 > File này đồng thời đóng vai trò:
@@ -60,17 +60,17 @@ Mặc định: **bạn tự chọn case của mình**.
 
 ### Một case phù hợp cần có 4 điều
 
-- [ ] Có một **AI shock** hoặc mốc đổi cục diện đủ rõ
-- [ ] Có thể tìm được ít nhất **3-5 bằng chứng công khai**
-- [ ] Có tác động đủ nhìn thấy được ở user / doanh thu / pricing / traffic / cổ phiếu / usage / vị thế cạnh tranh
-- [ ] Có thể trả lời câu hỏi: **"Điều gì đã thay đổi vĩnh viễn?"**
+- [x] Có một **AI shock** hoặc mốc đổi cục diện đủ rõ
+- [x] Có thể tìm được ít nhất **3-5 bằng chứng công khai**
+- [x] Có tác động đủ nhìn thấy được ở user / doanh thu / pricing / traffic / cổ phiếu / usage / vị thế cạnh tranh
+- [x] Có thể trả lời câu hỏi: **"Điều gì đã thay đổi vĩnh viễn?"**
 
 ### Điền nhanh trước khi làm
 
-- **Case / sản phẩm / công ty:** ___________________________________
-- **AI / platform / sản phẩm mới tạo áp lực:** ___________________________________
+- **Case / sản phẩm / công ty:** Grammarly — AI writing assistant (grammar, tone, clarity); công ty rebrand thành Superhuman (Oct 2025)
+- **AI / platform / sản phẩm mới tạo áp lực:** ChatGPT (Nov 2022), Google Gemini trong Gmail/Docs, Microsoft Copilot trong Word/Outlook/Teams
 - **Vì sao tôi chọn case này?**  
-  > ___________________________________
+  > Case "survivor under pressure" — chưa sụp như Chegg nhưng bị commoditize rõ ràng. Có đủ bằng chứng công khai (layoffs, M&A, rebrand, DAU plateau) và minh họa tốt platform risk + strategic pivot.
 
 ### Nếu bí case, chọn 1 trong 6 case gợi ý này
 
@@ -117,22 +117,22 @@ Không cần chép lại mọi số. Chỉ giữ những bằng chứng đủ m�
 
 | # | Bằng chứng / số liệu chốt | Vì sao số này quan trọng? | Nguồn |
 |---|---|---|---|
-| E1 | | | |
-| E2 | | | |
-| E3 | | | |
-| E4 | | | |
-| E5 | | | |
+| E1 | DAU **đứng yên ~30M từ 2020–2024** (tăng 1M→30M trong 2015–2020, rồi plateau) | Moat tăng trưởng user cạn — thị trường mature + AI thay thế entry point | Contrary Research (Feb 2024) |
+| E2 | Layoff **230 người (23%)** tháng 2/2024; CEO: *"new age of AI"*, pivot sang *"AI-enabled workplace"* | Dấu hiệu chiến lược đổi hướng sâu, không chỉ cắt giá vốn | TechCrunch (Feb 2024) |
+| E3 | Revenue growth **decelerate: ~43% YoY (2021–22) → ~12% (2023–24)**; vẫn profitable | Chưa sụp nhưng tốc độ chậm rõ — áp lực commoditization | Sacra (2024–2025) |
+| E4 | **Dec 2024:** mua Coda; **Jul 2025:** mua Superhuman; **Oct 2025:** rebrand công ty → Superhuman, launch Superhuman Go | Pivot khỏi "grammar checker" sang agentic productivity platform; bỏ brand 15 năm | TechCrunch, BusinessWire (2024–2025) |
+| E5 | Google Gemini **Proofread + Help me write native** trong Gmail/Docs — Google One AI Premium **$19.99/tháng** | Platform embed cùng capability + generate ngay trong nơi user viết — không cần extension | Google Blog (2024) |
 
 ### 3 phát hiện ban đầu
 
 Trước khi viết nhận định, ghi nhanh 3 dòng:
 
 1. **Case này từng thắng nhờ...**  
-   > ___________________________________
+   > Ubiquity (extension trên 500K+ apps/sites), freemium PLG, cross-platform integration, và enterprise brand governance (96% Fortune 500).
 2. **AI shock làm thay đổi...**  
-   > ___________________________________
+   > Giá trị lõi từ "sửa ngữ pháp/tone" → "viết/generate giúp tôi"; platform (Google, Microsoft) nhét luôn vào Docs/Gmail/Word — grammar check trở thành free feature.
 3. **Dấu hiệu mạnh nhất cho thấy luật chơi mới là...**  
-   > ___________________________________
+   > DAU plateau 4 năm + layoff 23% + mua 2 công ty + rebrand bỏ tên Grammarly trong vòng 12 tháng.
 
 ---
 
@@ -148,10 +148,9 @@ Gợi ý:
 - Job-to-be-done (công việc người dùng "thuê" sản phẩm làm hộ) là gì?
 
 **Trả lời của tôi:**  
-> _______________________________________________  
-> _______________________________________________
+> Trước AI, Grammarly thắng nhờ giả định: user sẵn sàng cài extension và trả $12–15/tháng vì không có grammar/tone check tốt ở nơi họ viết. Moat là **cross-platform ubiquity** (500K+ apps/sites), freemium PLG, và enterprise brand governance. User thuê Grammarly để **viết tiếng Anh rõ ràng, đúng tone, chuyên nghiệp — real-time trong lúc đang gõ**, không cần copy-paste sang tool khác (JTBD). Enterprise (70K+ teams, 96% Fortune 500) trả premium cho style guide và consistency across org.
 
-**Bằng chứng đỡ nhận định này:** E___, E___
+**Bằng chứng đỡ nhận định này:** E1, E5
 
 ---
 
@@ -175,14 +174,13 @@ Gợi ý:
 - build-copy cycles tăng tốc
 - GTM + distribution quan trọng hơn
 
-**Shift kỳ vọng quan trọng nhất:** ___________________________________  
-**Competitive dynamic quan trọng nhất:** ___________________________________
+**Shift kỳ vọng quan trọng nhất:** #1 Làm xong giúp tôi + #3 Tự lo việc lặt vặt  
+**Competitive dynamic quan trọng nhất:** Platform risk + build-copy cycles tăng tốc
 
 **Trả lời của tôi:**  
-> _______________________________________________  
-> _______________________________________________
+> User không còn muốn "sửa từng lỗi" — họ kỳ vọng AI **draft, rewrite, summarize** ngay trong Gmail/Docs/Word. Grammarly từng là layer *trên* mọi app; giờ Google Gemini và Microsoft Copilot là layer *bên trong* app. Grammar check chuyển từ paid product → free feature (Word, Docs, phone keyboard). Sinh viên cancel subscription vì ChatGPT làm được nhiều hơn với switching cost ≈ 0. Build trên GPT-3 (GrammarlyGO) nhưng OpenAI/Google/Microsoft vừa là platform vừa là direct competitor.
 
-**Bằng chứng đỡ nhận định này:** E___, E___
+**Bằng chứng đỡ nhận định này:** E2, E5
 
 ---
 
@@ -197,10 +195,9 @@ Gợi ý:
 - Phân khúc này còn tồn tại không? Nếu còn, nó đang được phục vụ theo cách khác ra sao?
 
 **Điều đã thay đổi vĩnh viễn theo tôi là:**  
-> _______________________________________________  
-> _______________________________________________
+> **"Grammar checking" không còn là category sản phẩm trả tiền riêng** — nó trở thành hygiene feature miễn phí trong mọi writing tool. Chuẩn mới trong đầu user: writing AI phải **nằm sẵn trong nơi tôi đang làm việc**, không phải extension riêng phải bật thêm. Switching cost consumer ≈ 0 (ChatGPT $20/tháng hoặc free đủ dùng). Entry point cũ (cài Grammarly extension) bị thay bởi native AI trong Docs/Gmail/Word. Phân khúc consumer grammar-only đang erode; phân khúc còn sống là enterprise brand governance và agentic productivity — Grammarly đang pivot sang đó.
 
-**Bằng chứng đỡ nhận định này:** E___, E___
+**Bằng chứng đỡ nhận định này:** E1, E4, E5
 
 ---
 
@@ -212,13 +209,12 @@ Gợi ý:
 - Nếu không cứu được: vì sao đã quá muộn?
 - So với một đối thủ phản ứng tốt hơn, họ chậm ở đâu?
 
-**Verdict ban đầu của tôi:** Có / Không / Có nhưng phải đổi rất mạnh
+**Verdict ban đầu của tôi:** Có nhưng phải đổi rất mạnh
 
 **Trả lời của tôi:**  
-> _______________________________________________  
-> _______________________________________________
+> Grammarly **chưa sụp** (vẫn profitable, ~$650–700M ARR, 40M+ users) nhưng **core product cũ không scale** như trước. Để cứu: pivot từ grammar checker → **agentic productivity platform** — mua Coda (workspace + Coda Brain), Superhuman Mail (email surface), rebrand Superhuman, launch Superhuman Go (proactive AI agent). Moat mới: cross-app agents + enterprise context, không còn grammar-only. Chậm hơn Microsoft Copilot (embed M365 từ 2023) và Google Gemini (native Workspace). Khác Jasper: có enterprise base, profitability, và vốn M&A — không chết ngay nhưng phải abandon category gốc.
 
-**Bằng chứng đỡ nhận định này:** E___, E___
+**Bằng chứng đỡ nhận định này:** E3, E4
 
 ---
 
@@ -231,9 +227,9 @@ Viết đúng 3 câu:
 3. `Verdict của tôi là...`
 
 **Bản tóm tắt 3 câu của tôi:**  
-1. _______________________________________________  
-2. _______________________________________________  
-3. _______________________________________________
+1. Case này yếu đi vì grammar check trở thành free feature trong Docs/Gmail/Word, và ChatGPT làm luôn phần generate — extension không còn là moat.  
+2. Điều thay đổi vĩnh viễn là user kỳ vọng writing AI nằm sẵn trong workflow, không cần tool riêng; "grammar check" không còn là product category.  
+3. Verdict của tôi là: Có thể cứu nếu pivot thành công sang agentic productivity platform — bằng chứng là mua Coda + Superhuman và rebrand trong 12 tháng.
 
 ---
 
@@ -257,22 +253,22 @@ Viết đúng 3 câu:
 
 | Người | Case | Bằng chứng mạnh nhất họ nêu | Điều họ cho là "thay đổi vĩnh viễn" | Verdict của họ |
 |---|---|---|---|---|
-| Bạn 1 | | | | |
-| Bạn 2 | | | | |
-| Bạn 3 | | | | |
-| Bạn 4 | | | | |
+| Bạn 1 | Chegg | Thuê bao 7,8M → 3,2M; traffic non-subscriber -49% sau Google AI Overviews | Entry point học tập chuyển sang ChatGPT / answer engine | Có nhưng phải đổi rất mạnh |
+| Bạn 2 | Stack Overflow | Câu hỏi mới giảm ~75% từ đỉnh 2017; nghiên cứu PNAS ghi nhận -25% hoạt động sau ChatGPT | Debug bằng cộng đồng không còn là default — hỏi AI trước | Không chết hẳn, nhưng vai trò thu hẹp |
+| Bạn 3 | Jasper | Valuation nội bộ cắt ~20%; growth stalled sau ChatGPT | "AI writing" không còn là category — là feature | Có nhưng phải pivot enterprise |
+| Bạn 4 | Grammarly (tôi) | DAU plateau 4 năm + layoff 23% + rebrand Superhuman trong 12 tháng | Grammar check thành free feature; AI phải in-workflow | Có nhưng phải đổi rất mạnh |
 
 ### Sau khi cả bàn share xong, chốt 3 ý chung
 
 **1. Bàn tôi thấy case nào có bằng chứng mạnh nhất? Vì sao?**  
-> _______________________________________________
+> Chegg — vì số liệu tài chính và traffic rất cụ thể, có cả lawsuit chính thức với Google. Dễ phân biệt triệu chứng (cổ phiếu giảm) và thay đổi vĩnh viễn (entry point học tập đổi chỗ).
 
 **2. Có pattern nào lặp lại giữa nhiều case không?**  
 Ví dụ: switching costs giảm, platform bước xuống app layer, user chuyển sang "làm xong giúp tôi", moat cũ quá mỏng…  
-> _______________________________________________
+> Cả bàn đều thấy 3 pattern: (1) switching cost consumer gần như bằng 0 khi có free AI, (2) Big Tech embed AI native → platform risk, (3) moat cũ (content, network, extension) mỏng khi generic AI "đủ tốt". User kỳ vọng "làm xong giúp tôi" thay vì tool hỗ trợ từng bước.
 
 **3. Một cảnh báo cho chính dự án của nhóm tôi là gì?**  
-> _______________________________________________
+> Dự án nhóm đang hướng tới inbox shop online — nếu chỉ là lớp UI trên ChatGPT để gợi ý câu trả lời, Shopee/TikTok Shop có thể tự tích hợp AI inbox trong 1–2 năm. Moat phải đến từ dữ liệu sản phẩm, policy shop, và workflow duyệt — không phải khả năng viết của LLM.
 
 ---
 
@@ -280,34 +276,33 @@ Ví dụ: switching costs giảm, platform bước xuống app layer, user chuy�
 
 ### Sau khi nghe bàn phản biện, verdict của tôi:
 
-- [ ] Giữ nguyên
+- [x] Giữ nguyên
 - [ ] Đổi nhẹ
 - [ ] Đổi mạnh
 
 ### Vì sao tôi giữ / đổi verdict?
 
-> _______________________________________________  
-> _______________________________________________
+> Giữ nguyên. Bạn phân tích Chegg hỏi: "DAU plateau của Grammarly có phải triệu chứng thôi không?" — tôi thấy layoff 23% và rebrand bỏ tên 15 năm là bằng chứng management cũng coi category cũ không còn scale, không chỉ tạm thời. Phản biện hữu ích nhất: Grammarly vẫn profitable nên case này là "pressure" chứ không phải "collapse" — điều đó làm verdict sắc hơn, không đổi hướng.
 
 ### Verdict cuối cùng của tôi (phiên bản nộp)
 
 **Case này tổn thương trước AI vì:**  
-> _______________________________________________
+> Giá trị lõi (grammar/tone check) bị commoditize — Word, Google Docs, Gmail Gemini, Copilot embed cùng capability miễn phí hoặc bundled. ChatGPT thay thế cả phần generate. DAU plateau ~30M trong 4 năm; consumer switching cost ≈ 0.
 
 **Điều thay đổi vĩnh viễn là:**  
-> _______________________________________________
+> "Writing assistance" không còn là category trả tiền riêng — là feature native trong mọi writing tool. User kỳ vọng AI proactive trong workflow, không phải extension reactive.
 
 **Nếu phải rút 1 bài học cho dự án của nhóm mình, tôi rút ra:**  
-> _______________________________________________
+> Đừng xây moat chỉ từ UI wrapper trên API platform — feature bạn ship hôm nay có thể thành native feature của OpenAI/Google/Microsoft trong 12–18 tháng. Cần workflow integration sâu + data/context độc quyền mới là moat bền.
 
 ---
 
 ## Checklist trước khi nộp
 
-- [ ] Tôi đã chọn ít nhất 3 bằng chứng chốt có nguồn.
-- [ ] Mỗi nhận định đều chỉ vào ít nhất 1 bằng chứng.
-- [ ] Tôi đã ghi lại phần share trong bàn.
-- [ ] Tôi đã viết verdict cuối sau thảo luận.
+- [x] Tôi đã chọn ít nhất 3 bằng chứng chốt có nguồn.
+- [x] Mỗi nhận định đều chỉ vào ít nhất 1 bằng chứng.
+- [x] Tôi đã ghi lại phần share trong bàn.
+- [x] Tôi đã viết verdict cuối sau thảo luận.
 
 ---
 
